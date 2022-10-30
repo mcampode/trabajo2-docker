@@ -53,7 +53,7 @@ const handleLogo = (e) => {
                         <img src="https://i.pinimg.com/600x315/d2/32/98/d23298e8be6b9f7aa533e283228c4c2b.jpg"
                             alt="" />
               
-        <h1>EL Slack-Clone</h1>
+        <h2>EL Slack-Clone-mcampode@emeal.nttdata.com</h2>
         <p> kalEL-liott.slack.com  </p>
         <form > 
         <input onChange={handleEmail} type="email" placeholder='email' name="username" value={email}/>
